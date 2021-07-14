@@ -1,0 +1,30 @@
+.landing-page-navbar {
+    color:rebeccapurple;
+    position: relative;
+    display:flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+.landing-page-navbar div{
+    display: inline-block;
+    border-radius: 30px;
+    padding: 5px;
+    margin:5px;  
+}
+.landing-one{
+    display: flex;
+    flex-direction: column;
+    
+}
+.profile-pic{
+    border-radius: 5px;
+}
+.contain{
+    width:80% !important;
+    
+}
+.pic-space{
+    height:80%;
+    width:80%;
+    background-color: aqua;
+}
